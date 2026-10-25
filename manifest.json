@@ -1,0 +1,10 @@
+{
+	"id": "noteit",
+	"name": "NoteIT",
+	"version": "1.0.0",
+	"minAppVersion": "1.8.0",
+	"description": "Generate structured notes from natural language descriptions using AI.",
+	"author": "Eleven-Ahmad",
+	"authorUrl": "https://github.com/kevin-eleven",
+	"isDesktopOnly": false
+}
